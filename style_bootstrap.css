@@ -1,0 +1,10 @@
+
+body {
+  background-color: #dde9f6;
+}
+.card {
+  border-radius: 10px;
+}
+#result {
+  font-size: 18px;
+}
